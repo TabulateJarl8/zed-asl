@@ -1,0 +1,11 @@
+id = "asl"
+name = "ACPI Source Language"
+version = "0.0.1"
+schema_version = 1
+authors = ["Connor Sample <tabulatejarl8@gmail.com>"]
+description = "ASL language support"
+repository = "https://github.com/TabulateJarl8/zed-asl"
+
+[grammars.asl]
+repository = "https://github.com/TabulateJarl8/tree-sitter-asl"
+rev = "e98c5efac20c6795d73a9fc3511bbd5f41b19f89"
