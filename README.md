@@ -1,6 +1,6 @@
 # zed-asl
 
-[ACPI Source Language](https://uefi.org/htmlspecs/ACPI_Spec_6_4_html/19_ASL_Reference/ACPI_Source_Language_Reference.html?highlight=acpi%20source%20language) support for [Zed](https://zed.dev/).
+[ACPI Source Language](https://uefi.org/htmlspecs/ACPI_Spec_6_4_html/19_ASL_Reference/ACPI_Source_Language_Reference.html) support for [Zed](https://zed.dev/).
 
 ## Features
 
