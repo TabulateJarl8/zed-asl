@@ -1,6 +1,6 @@
 id = "asl"
 name = "ACPI Source Language"
-version = "0.0.1"
+version = "0.1.0"
 schema_version = 1
 authors = ["Connor Sample <tabulatejarl8@gmail.com>"]
 description = "ASL language support"
